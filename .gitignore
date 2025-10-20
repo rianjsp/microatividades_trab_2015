@@ -1,0 +1,36 @@
+# Arquivos e pastas do Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Arquivos de dados
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Arquivos temporários e de sistema
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ambiente virtual (Anaconda, venv, etc.)
+env/
+venv/
+LuisHeitor/
+__pycache__/
+*.pyc
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos de saída
+*.png
+*.jpg
+*.pdf
+*.svg
+*.html
