@@ -10,7 +10,7 @@ Este projeto reúne uma série de microatividades realizadas com o objetivo de p
   - Jupyter Notebooks
 - Biblioteca `pandas` instalada
 - IDE (VS Code)
-- Arquivo de dados: `earthquake_data_tsunami.csv`
+- Arquivo de dados: `dados.xlsx` & `picoweb.csv`
 
 ---
 
@@ -22,4 +22,6 @@ Demonstrar capacidade de extrair metadados e estatísticas estruturais do DataFr
 
 ## 📁 Estrutura de Arquivos
 
-📦 projeto-terremotos-pandas ├── earthquake_data_tsunami.csv ├── microatividade1_visualizacao_completa.ipynb ├── microatividade2_head_tail.ipynb ├── microatividade3_info_estrutura.ipynb └── README.md
+📦 microatividades.ipynb
+📦 picoweb.ipynb
+
